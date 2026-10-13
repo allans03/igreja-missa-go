@@ -1,0 +1,569 @@
+{
+  "last_updated": "2026-10-12",
+  "notice": "Cadastro inicial ampliado com informações públicas consultadas em fontes oficiais e diretório complementar. Horários podem mudar; confirme com a igreja.",
+  "churches": [
+    {
+      "name": "Basílica Nossa Senhora do Carmo",
+      "kind": "Basílica",
+      "neighborhood": "Centro",
+      "address": "Praça Bento Quirino, s/n — Centro, Campinas - SP",
+      "phone": "(19) 3234-9880 / 3231-7032",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Segunda-feira",
+          "time": "19h"
+        },
+        {
+          "day": "Terça-feira",
+          "time": "19h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "15h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "19h30"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "19h"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "08h (1ª sexta do mês)"
+        },
+        {
+          "day": "Sábado",
+          "time": "08h"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "07h30"
+        },
+        {
+          "day": "Domingo",
+          "time": "10h"
+        },
+        {
+          "day": "Domingo",
+          "time": "18h"
+        }
+      ]
+    },
+    {
+      "name": "Catedral Metropolitana — Paróquia Nossa Senhora da Conceição",
+      "kind": "Catedral",
+      "neighborhood": "Centro",
+      "address": "Praça José Bonifácio, s/n — Centro, Campinas - SP",
+      "phone": "(19) 3231-2085 / 3236-5574",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Segunda-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Segunda-feira",
+          "time": "12h15"
+        },
+        {
+          "day": "Segunda-feira",
+          "time": "15h30"
+        },
+        {
+          "day": "Segunda-feira",
+          "time": "18h15"
+        },
+        {
+          "day": "Terça-feira",
+          "time": "07h, 12h15, 15h30 e 18h15"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "07h, 12h15, 15h30 e 18h15"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "07h, 12h15, 15h30 e 18h15"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "07h, 12h15, 15h30 e 18h15"
+        },
+        {
+          "day": "Sábado",
+          "time": "07h, 09h30, 12h15 e 17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "07h30, 09h30, 11h30 e 17h"
+        }
+      ]
+    },
+    {
+      "name": "Capelania Militar Santo Tomás de Aquino",
+      "kind": "Capelania",
+      "neighborhood": "Jardim Chapadão",
+      "address": "EsPCEx, Av. Papa Pio XII, 350 — Campinas - SP",
+      "phone": "(19) 3243-8118",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h30 (verificar local; há celebração às 16h na Coudelaria)"
+        },
+        {
+          "day": "Domingo",
+          "time": "09h30 e 19h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Bom Pastor",
+      "kind": "Paróquia",
+      "neighborhood": "Campinas",
+      "address": "Rua Irineu de Oliveira Leme, 74 — Campinas - SP",
+      "phone": "(19) 3272-0245",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Quinta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h30"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Cristo Rei",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Chapadão",
+      "address": "Rua Elisiário Pires de Camargo, 210 — Campinas - SP",
+      "phone": "(19) 3242-0500",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Sexta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Sábado",
+          "time": "19h"
+        },
+        {
+          "day": "Domingo",
+          "time": "09h, 11h (com crianças) e 19h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia da Imaculada",
+      "kind": "Paróquia",
+      "neighborhood": "Campinas",
+      "address": "Rua Elias Lobo Neto, 666 — Campinas - SP",
+      "phone": "(19) 3272-1251",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Sexta-feira",
+          "time": "15h (1ª sexta do mês; confirmar)"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h30"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h30, 10h30 e 18h30"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Divino Salvador",
+      "kind": "Paróquia",
+      "neighborhood": "Cambuí",
+      "address": "Av. Júlio de Mesquita, 126 — Cambuí, Campinas - SP",
+      "phone": "(19) 3255-0541",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "17h"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h, 10h30 e 18h30"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Dom Bosco",
+      "kind": "Paróquia",
+      "neighborhood": "Vila Vitória",
+      "address": "Av. Pedro Degrecci Júnior, s/n — Vila Vitória, Campinas - SP",
+      "phone": "(19) 3226-5286",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "20h (1ª quinta do mês)"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h Comunidade São José; 19h30 matriz"
+        },
+        {
+          "day": "Domingo",
+          "time": "07h30 Comunidade N. Sra. do Rosário; 08h30 e 19h matriz; 10h Comunidade São José"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Imaculado Coração de Maria",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Flamboyant",
+      "address": "Av. Palestina, 221 — Jardim Flamboyant, Campinas - SP",
+      "phone": "(19) 3294-6307",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Quarta-feira",
+          "time": "16h"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h, 10h e 18h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Jesus Cristo Libertador",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Florence I",
+      "address": "Rua Lasar Segal, 236 — Campinas - SP",
+      "phone": "(19) 3267-6215",
+      "source": "https://www.arquidiocesecampinas.com.br/missas/",
+      "masses": [
+        {
+          "day": "Quarta-feira",
+          "time": "15h e 20h (matriz)"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "20h (1ª sexta do mês)"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h Comunidade Santa Paulina; 19h30 Comunidade Senhor do Bonfim"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h e 19h matriz; 09h30 Comunidade São Lucas"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Nossa Senhora Aparecida",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Proença",
+      "address": "Av. Dr. Arlindo Joaquim de Lemos, 1110 — Campinas - SP",
+      "phone": "(19) 3252-3642",
+      "source": "https://www.arquidiocesecampinas.com.br/location/paroquia-nossa-senhora-aparecida-campinas/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "07h30 (celebração)"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "19h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "07h30 (celebração)"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "07h30"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "07h30, 09h30 (transmissão online) e 19h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Santo Antônio",
+      "kind": "Paróquia",
+      "neighborhood": "Ponte Preta",
+      "address": "Av. da Saudade, 854 — Campinas - SP",
+      "phone": "(19) 3231-4251",
+      "source": "https://www.arquidiocesecampinas.com.br/location/paroquia-santo-antonio-campinas/",
+      "masses": [
+        {
+          "day": "Segunda-feira",
+          "time": "07h e 19h"
+        },
+        {
+          "day": "Terça-feira",
+          "time": "07h e 19h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "07h e 19h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "07h e 19h"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "07h e 19h"
+        },
+        {
+          "day": "Sábado",
+          "time": "07h e 15h30"
+        },
+        {
+          "day": "Domingo",
+          "time": "07h, 08h30, 10h e 19h"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Nossa Senhora do Perpétuo Socorro",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Nova Europa",
+      "address": "Rua Maestro Jaime Lopes Diniz, 235 — Campinas - SP",
+      "phone": "(19) 3278-2525 / 3201-0761",
+      "source": "https://www.arquidiocesecampinas.com.br/location/paroquia-nossa-senhora-do-perpetuo-socorro/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "15h (novena e missa)"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "19h Comunidade Santo Agostinho"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "19h"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h"
+        },
+        {
+          "day": "Domingo",
+          "time": "09h30 matriz; 08h Comunidade Santo Agostinho"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Nossa Senhora Auxiliadora",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Guanabara",
+      "address": "Rua Baronesa Geraldo de Resende, 330 — Campinas - SP",
+      "phone": "Confirmar no canal oficial",
+      "source": "https://www.arquidiocesecampinas.com.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Horário a confirmar com a paróquia"
+        }
+      ]
+    },
+    {
+      "name": "Paróquia Nossa Senhora do Rosário",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Chapadão",
+      "address": "Av. Francisco José de Camargo Andrade, 535 — Campinas - SP",
+      "phone": "(19) 3241-8046",
+      "source": "https://www.arquidiocesecampinas.com.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Horário a confirmar com a paróquia"
+        }
+      ]
+    },
+    {
+      "name": "Santuário Nossa Senhora de Guadalupe",
+      "kind": "Santuário",
+      "neighborhood": "Vila Castelo Branco",
+      "address": "Rua Castelnuovo, 609 — Campinas - SP",
+      "phone": "(19) 3227-5492",
+      "source": "https://www.arquidiocesecampinas.com.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Horário a confirmar com o santuário"
+        }
+      ]
+    },
+    {
+      "name": "Comunidade Católica Pantokrator",
+      "kind": "Comunidade",
+      "neighborhood": "Botafogo",
+      "address": "Rua Culto à Ciência, 238 — Campinas - SP",
+      "phone": "(19) 99399-5793",
+      "source": "https://pantokrator.org.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Horário a confirmar com a comunidade"
+        }
+      ]
+    },
+    {
+      "name": "Comunidade Católica Shalom",
+      "kind": "Comunidade",
+      "neighborhood": "Jardim Guanabara",
+      "address": "Rua Camargo Paes, 360 — Campinas - SP",
+      "phone": "(19) 3199-8882",
+      "source": "https://comshalom.org/",
+      "masses": [
+        {
+          "day": "Sábado",
+          "time": "Horário a confirmar com a comunidade"
+        }
+      ]
+    },
+    {
+      "name": "Santuário Arquidiocesano Santa Rita de Cássia",
+      "kind": "Santuário",
+      "neighborhood": "Nova Campinas",
+      "address": "Av. Dr. Jesuíno Marcondes Machado, 670 — Campinas - SP",
+      "phone": "(19) 3252-2261",
+      "source": "https://www.arquidiocesecampinas.com.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Horário a confirmar com o santuário"
+        }
+      ]
+    },
+    {
+      "name": "Igreja Nossa Senhora Desatadora dos Nós",
+      "kind": "Igreja/Santuário",
+      "neighborhood": "Jardim Santa Genebra",
+      "address": "Rua Estácio de Sá, 466 — Campinas - SP",
+      "phone": "(19) 3242-3211",
+      "source": "https://www.arquidiocesecampinas.com.br/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "Consultar programação oficial"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-12",
+      "name": "Nossa Senhora Aparecida",
+      "description": "Solenidade de Nossa Senhora da Conceição Aparecida, Padroeira do Brasil."
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Comemoração de Todos os Fiéis Defuntos",
+      "description": "Dia de oração pelos fiéis falecidos."
+    },
+    {
+      "date": "2026-11-15",
+      "name": "Solenidade de Todos os Santos (calendário local pode variar)",
+      "description": "Consulte o calendário litúrgico e a programação da sua paróquia."
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Imaculada Conceição da Bem-aventurada Virgem Maria",
+      "description": "Solenidade mariana."
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natal do Senhor",
+      "description": "Solenidade da Natividade de Nosso Senhor Jesus Cristo."
+    },
+    {
+      "date": "2027-01-01",
+      "name": "Santa Maria, Mãe de Deus",
+      "description": "Solenidade celebrada no primeiro dia do ano."
+    },
+    {
+      "date": "2027-01-06",
+      "name": "Epifania do Senhor (data litúrgica)",
+      "description": "A celebração pode ser transferida para o domingo conforme o calendário local."
+    },
+    {
+      "date": "2027-02-02",
+      "name": "Apresentação do Senhor",
+      "description": "Festa litúrgica."
+    },
+    {
+      "date": "2027-03-19",
+      "name": "São José, esposo da Virgem Maria",
+      "description": "Solenidade em honra a São José."
+    }
+  ]
+}

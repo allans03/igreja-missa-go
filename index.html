@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123d32">
+  <meta name="description" content="Encontre horários de missas e datas católicas em Campinas.">
+  <title>Igreja Missa Go</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="brand"><span class="brand-icon">✝</span><span>Igreja <b>Missa Go</b></span></div>
+    <div class="hero-content">
+      <p class="eyebrow">CAMPINAS • SP</p>
+      <h1>Encontre sua próxima <em>missa.</em></h1>
+      <p class="sub">Horários, comunidades e datas importantes da Igreja Católica em um só lugar.</p>
+      <label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Busque por paróquia, bairro ou comunidade"></label>
+    </div>
+  </header>
+  <main>
+    <section class="date-banner">
+      <div><p class="eyebrow dark">CALENDÁRIO CATÓLICO</p><h2 id="today-title">Celebrações e datas especiais</h2><p id="today-date"></p></div>
+      <div class="cross-art" aria-hidden="true">✝</div>
+    </section>
+    <section class="section-head"><div><p class="eyebrow dark">ENCONTRE PERTO DE VOCÊ</p><h2>Missas em Campinas</h2></div><span id="count" class="count"></span></section>
+    <div class="filters">
+      <label>Dia da semana<select id="day"><option value="">Todos os dias</option><option>Domingo</option><option>Segunda-feira</option><option>Terça-feira</option><option>Quarta-feira</option><option>Quinta-feira</option><option>Sexta-feira</option><option>Sábado</option></select></label>
+      <label>Bairro<input id="neighborhood" placeholder="Ex.: Centro"></label>
+    </div>
+    <div id="churches" class="church-grid"><p>Carregando dados…</p></div>
+    <section class="events-section"><p class="eyebrow dark">FIQUE POR DENTRO</p><h2>Próximas datas católicas</h2><div id="events" class="event-grid"></div></section>
+    <section class="notice"><strong>⚠ Confirme antes de sair</strong><p>Os horários podem mudar em feriados, solenidades e ocasiões especiais. Confirme sempre nos canais oficiais da paróquia. Esta página é um projeto independente e não representa oficialmente a Arquidiocese de Campinas.</p></section>
+  </main>
+  <footer><span>✝ Igreja Missa Go</span><span>Feito para aproximar você da comunidade.</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>
