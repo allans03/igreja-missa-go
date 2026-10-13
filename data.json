@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12",
-  "notice": "Cadastro inicial ampliado com informações públicas consultadas em fontes oficiais e diretório complementar. Horários podem mudar; confirme com a igreja.",
+  "last_updated": "2026-10-13",
+  "notice": "Cadastro ampliado para 40 locais com base em fontes da Arquidiocese de Campinas, Lírio Católico e diretórios/mapas públicos. Horários sem confirmação aparecem como 'Horários a confirmar'. Dados de diretórios podem estar desatualizados; confirme com a igreja antes de sair.",
   "churches": [
     {
       "name": "Basílica Nossa Senhora do Carmo",
@@ -517,6 +517,319 @@
           "time": "Consultar programação oficial"
         }
       ]
+    },
+    {
+      "name": "Paróquia São João Batista",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim São João",
+      "address": "Av. das Amoreiras, 6360 — Campinas - SP",
+      "phone": "(19) 3227-9396",
+      "source": "https://www.arquidiocesecampinas.com.br/location/paroquia-sao-joao-batista/",
+      "masses": [
+        {
+          "day": "Quarta-feira",
+          "time": "20h"
+        },
+        {
+          "day": "Sábado",
+          "time": "19h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h"
+        }
+      ]
+    },
+    {
+      "name": "Comunidade Santa Teresinha (Paróquia São João Batista)",
+      "kind": "Comunidade católica",
+      "neighborhood": "Jardim Santa Teresinha",
+      "address": "Rua Bento Morães Ferreira, 29 — Jardim Santa Teresinha, Campinas - SP",
+      "phone": "(19) 3227-9396",
+      "source": "https://www.sjbcampinas.com.br/comunidades/santa-teresinha/missas-e-celebracoes-da-palavra/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "07h (Santa Missa)"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h30 (1º e 3º sábados: Santa Missa; 2º e 4º sábados: Celebração da Palavra)"
+        }
+      ]
+    },
+    {
+      "name": "Capela Cemitério Flamboyant",
+      "kind": "Capela",
+      "neighborhood": "Bairro das Palmeiras",
+      "address": "Alameda dos Flamboyants, s/n — Bairro das Palmeiras, Campinas - SP",
+      "phone": "(19) 3254-6820",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "10h30"
+        }
+      ]
+    },
+    {
+      "name": "Capela Colégio São José",
+      "kind": "Capela",
+      "neighborhood": "Jardim Nossa Senhora Auxiliadora",
+      "address": "Avenida Almeida Garret, 267 — Campinas - SP",
+      "phone": "(19) 3744-3000",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Segunda-feira",
+          "time": "18h30"
+        },
+        {
+          "day": "Terça-feira",
+          "time": "18h30"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "18h30"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "18h30"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "18h30"
+        },
+        {
+          "day": "Sábado",
+          "time": "18h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h"
+        }
+      ]
+    },
+    {
+      "name": "Capela Nossa Senhora Aparecida (Rua Benjamin Frankling)",
+      "kind": "Capela",
+      "neighborhood": "A confirmar",
+      "address": "Rua Benjamin Frankling, 120 — Campinas - SP",
+      "phone": "(19) 3281-0884",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "07h"
+        }
+      ]
+    },
+    {
+      "name": "Capela Nossa Senhora Mãe da Misericórdia",
+      "kind": "Capela",
+      "neighborhood": "A confirmar",
+      "address": "Rua Neuraci da Silva Rodrigues, 449 — Campinas - SP",
+      "phone": "(19) 3246-2773",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": []
+    },
+    {
+      "name": "Capela Nossa Senhora da Boa Morte",
+      "kind": "Capela",
+      "neighborhood": "Centro",
+      "address": "Rua Benjamin Constant, 1633 — Centro, Campinas - SP",
+      "phone": "(19) 3231-1357",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Sábado",
+          "time": "15h"
+        }
+      ]
+    },
+    {
+      "name": "Capela Santa Cruz (Paróquia Pessoal Coreana)",
+      "kind": "Capela",
+      "neighborhood": "Centro",
+      "address": "Praça Quinze de Novembro, 116 — Campinas - SP",
+      "phone": "(19) 98113-3499",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Segunda-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Terça-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Quarta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Sexta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Sábado",
+          "time": "17h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h"
+        }
+      ]
+    },
+    {
+      "name": "Capela São Sebastião (Nossa Senhora de Fátima)",
+      "kind": "Capela",
+      "neighborhood": "Vila Esmeralda",
+      "address": "Avenida Nossa Senhora de Fátima, 1510 — Campinas - SP",
+      "phone": "(19) 3251-2575",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Sexta-feira",
+          "time": "07h"
+        },
+        {
+          "day": "Domingo",
+          "time": "08h"
+        }
+      ]
+    },
+    {
+      "name": "Capela de São José (Coudelaria)",
+      "kind": "Capela",
+      "neighborhood": "Área da Coudelaria de Campinas",
+      "address": "Rua do Marupiara — área militar da Coudelaria de Campinas, Campinas - SP",
+      "phone": "(19) 3243-8118",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Sábado",
+          "time": "16h"
+        }
+      ]
+    },
+    {
+      "name": "Capela São Vicente de Paula",
+      "kind": "Capela",
+      "neighborhood": "Vila Industrial",
+      "address": "Rua Dr. Sales de Oliveira, 119 — Campinas - SP",
+      "phone": "(19) 3772-1410",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "07h30"
+        }
+      ]
+    },
+    {
+      "name": "Capela do Hospital Beneficência Portuguesa",
+      "kind": "Capela",
+      "neighborhood": "Centro",
+      "address": "Rua Onze de Agosto, 557 — Centro, Campinas - SP",
+      "phone": "",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Terça-feira",
+          "time": "12h15"
+        },
+        {
+          "day": "Quinta-feira",
+          "time": "12h15"
+        }
+      ]
+    },
+    {
+      "name": "Capela São Martinho de Lima (Paróquia São Charbel)",
+      "kind": "Capela",
+      "neighborhood": "Parque Taquaral",
+      "address": "Rua Jorge de Figueiredo Corrêa, 900 — Campinas - SP",
+      "phone": "",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "08h30"
+        }
+      ]
+    },
+    {
+      "name": "Capela Santo Antônio (em frente à lagoa)",
+      "kind": "Capela",
+      "neighborhood": "Endereço a confirmar",
+      "address": "Campinas - SP (diretório não informa endereço completo)",
+      "phone": "(19) 99778-9930",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": [
+        {
+          "day": "Domingo",
+          "time": "11h e 18h"
+        }
+      ]
+    },
+    {
+      "name": "Capela São Francisco de Assis (Ponte Preta)",
+      "kind": "Capela",
+      "neighborhood": "Ponte Preta",
+      "address": "Rua da Abolição, 169 — Campinas - SP",
+      "phone": "",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": []
+    },
+    {
+      "name": "Paróquia Nossa Senhora das Graças",
+      "kind": "Paróquia",
+      "neighborhood": "Vila Nova",
+      "address": "Avenida Imperatriz Leopoldina, 2 — Vila Nova, Campinas - SP",
+      "phone": "(19) 3242-5642",
+      "source": "https://www.google.com/maps/search/?api=1&query=Par%C3%B3quia+Nossa+Senhora+das+Gra%C3%A7as+Campinas+SP",
+      "masses": []
+    },
+    {
+      "name": "Paróquia Nossa Senhora das Dores",
+      "kind": "Paróquia",
+      "neighborhood": "Cambuí",
+      "address": "Rua Maria Monteiro, 1212 — Cambuí, Campinas - SP",
+      "phone": "(19) 3705-2070",
+      "source": "https://www.google.com/maps/search/?api=1&query=Par%C3%B3quia+Nossa+Senhora+das+Dores+Campinas+SP",
+      "masses": []
+    },
+    {
+      "name": "Paróquia Santo Cura d'Ars",
+      "kind": "Paróquia",
+      "neighborhood": "Jardim Cura d'Ars",
+      "address": "Rua Waldemar César da Silveira, 105 — Jardim Cura d'Ars, Campinas - SP",
+      "phone": "(19) 3276-2216",
+      "source": "https://www.google.com/maps/search/?api=1&query=Par%C3%B3quia+Santo+Cura+d%27Ars+Campinas+SP",
+      "masses": []
+    },
+    {
+      "name": "Igreja Católica Nossa Senhora da Pompéia",
+      "kind": "Igreja",
+      "neighborhood": "Vila Pompéia",
+      "address": "Rua Macatuba, 80 — Vila Pompéia, Campinas - SP",
+      "phone": "(19) 3267-1017",
+      "source": "https://www.google.com/maps/search/?api=1&query=Igreja+Nossa+Senhora+da+Pompeia+Campinas+SP",
+      "masses": []
+    },
+    {
+      "name": "Capela de São Sebastião (Sousas)",
+      "kind": "Capela",
+      "neighborhood": "Sousas",
+      "address": "Rua Maneco Rosa, 97 — Sousas, Campinas - SP",
+      "phone": "(19) 3258-2263",
+      "source": "https://www.liriocatolico.com.br/horario_missa/cidade/campinas-sp/",
+      "masses": []
     }
   ],
   "events": [
